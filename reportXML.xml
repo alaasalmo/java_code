@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<worksheets>
+<input>QQQQQQQQ</input>
+<output>YYYYYYY</output>
+<worksheet name="AAWWWWQQ" >
+<constant>date</constant>
+<items>
+ <item>
+   <sql>AAAAA</sql>
+   <location>
+     <cellx>A</cellx>
+     <celly>A</celly>
+   </location>
+ </item>
+ <item>
+   <sql>BBBBBB</sql>
+   <location>
+     <cellx>B</cellx>
+     <celly>B</celly>
+   </location>
+ </item>
+ <item>
+   <sql>CCCCC</sql>
+   <location>
+     <cellx>C</cellx>
+     <celly>C</celly>
+   </location>
+ </item>
+</items>
+-->
+</worksheet>
+</worksheets>
